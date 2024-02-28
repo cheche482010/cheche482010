@@ -15,9 +15,6 @@
         <a href="https://www.linkedin.com/in/josseth-manuel-arroyo-bracamonte-050784183" target="blank">
             <img align="center" height="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" width="40"/>
         </a>
-        <a href="https://www.facebook.com/jossethmanuel.arroyobracamonte" target="blank">
-            <img align="center" height="40" src="https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png" width="40"/>
-        </a>
         <a href="https://www.getmanfred.com/perfil/f8f63495-c13c-4d30-a3d1-17650ee1e7a0" target="blank">
             <img align="center" height="40" src="https://cdn-icons-png.flaticon.com/512/4412/4412860.png" width="40"/>
         </a>
